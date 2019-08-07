@@ -8,8 +8,8 @@ except ImportError:
     from urllib2 import urlopen, Request
 
 app_id = "2295795600633109"
-app_secret = "ad904eb46e2d039998b4bba5181f5aac"  # DO NOT SHARE WITH ANYONE!
-page_id = "ETOILISTE.COM.ESS"
+app_secret = ""
+page_id = ""
 
 # input date formatted as YYYY-MM-DD
 since_date = ""
